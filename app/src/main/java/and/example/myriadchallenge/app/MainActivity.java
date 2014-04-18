@@ -1,6 +1,7 @@
 package and.example.myriadchallenge.app;
 
 //this is a comment
+//testing git still
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
